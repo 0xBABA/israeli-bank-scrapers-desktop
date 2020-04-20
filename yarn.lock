@@ -4600,10 +4600,10 @@ dotenv@^8.2.0:
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
   integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
 
-download-chromium@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/download-chromium/-/download-chromium-2.2.0.tgz#2ccab688c3506696028bc12bb253df7c4259a293"
-  integrity sha512-SIET1HrkcDmX7SIDN9ESAAeythAaLvt9ky8kMwStwxbSLXgYskDeuIs5HOdugjrKLlfmR1nx4T9ZcFv6SthqCw==
+download-chromium@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/download-chromium/-/download-chromium-2.2.1.tgz#3040d4be0f1ff90237704eaf2d5cb50f690b711b"
+  integrity sha512-y3VF5hgjmQ19hYQWb348rRRxIE+ziS9oGRm2tvMz6aF6E0T7AXcrU9MVkcLyQmt0fxwPMMAi08LxnXHfqeOP8w==
   dependencies:
     cpr "^3.0.1"
     debug "^4.1.1"
