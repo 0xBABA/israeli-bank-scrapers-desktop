@@ -73,7 +73,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^25.3.0",
     "jest-circus": "^25.3.0",
-    "jest-config": "^25.3.0",
+    "jest-config": "^26.0.1",
     "jest-environment-jsdom": "^25.3.0",
     "prettier": "^2.0.2",
     "replace-in-file": "5.0.2",
