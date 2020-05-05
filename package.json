@@ -74,7 +74,7 @@
     "jest": "^25.3.0",
     "jest-circus": "^25.3.0",
     "jest-config": "^25.3.0",
-    "jest-environment-jsdom": "^25.3.0",
+    "jest-environment-jsdom": "^26.0.1",
     "prettier": "^2.0.2",
     "replace-in-file": "5.0.2",
     "sass": "^1.26.3",
