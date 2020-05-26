@@ -30,7 +30,7 @@
     "electron-log": "^4.1.1",
     "googleapis": "^49.0.0",
     "israeli-bank-scrapers-core": "^0.8.1",
-    "keytar": "^5.2.0",
+    "keytar": "^6.0.1",
     "moment": "^2.24.0",
     "vue": "^2.6.10",
     "vue-router": "^3.1.6",
